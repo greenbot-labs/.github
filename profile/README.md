@@ -15,7 +15,6 @@ Creamos aplicaciones personalizadas compatibles con sistemas Android e iOS, adap
 
 ## CONTACTO
 
-**Dirección:** 18 de Septiembre 998, Chillán, Región de Ñuble, Chile
 **Correo electrónico:** contacto@greenbot.cl  
 **Sitio web:** [https://greenbot.cl](https://greenbot.cl)
 
